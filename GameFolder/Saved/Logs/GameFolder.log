@@ -3160,3 +3160,7 @@ Script Stack (0 frames):
 [2022.05.18-15.51.11:273][276]AssetCheck: New page: Asset Save: multiple assets
 [2022.05.18-15.51.11:273][276]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/StarterContent/Maps/Minimal_Default_BuiltData.Minimal_Default_BuiltData
 [2022.05.18-15.51.11:273][276]LogContentValidation: Display: Validating World /Game/StarterContent/Maps/Minimal_Default.Minimal_Default
+[2022.05.18-15.54.18:379][967]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Character/Character_Blueprint" FILE="S:/UnrealProjects/LabProject/GameFolder/Content/Blueprints/Character/Character_Blueprint.uasset" SILENT=true
+[2022.05.18-15.54.18:394][967]LogSavePackage: Moving 'S:/UnrealProjects/LabProject/GameFolder/Saved/Character_Blueprint91F63A5B4EFC1725B42C8E949D519E73.tmp' to 'S:/UnrealProjects/LabProject/GameFolder/Content/Blueprints/Character/Character_Blueprint.uasset'
+[2022.05.18-15.54.18:404][967]AssetCheck: New page: Asset Save: Character_Blueprint
+[2022.05.18-15.54.18:405][967]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/Character/Character_Blueprint.Character_Blueprint
