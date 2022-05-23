@@ -984,3 +984,111 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2022.05.23-08.54.07:424][244]SourceControl: Commited [main 01a66c8] Add Shader Level.
 [2022.05.23-08.54.07:439][244]AssetCheck: New page: Asset Save: Level_Test_Shader
 [2022.05.23-08.54.07:439][244]LogContentValidation: Display: Validating World /Game/Maps/Level_Test_Shader.Level_Test_Shader
+[2022.05.23-08.57.57:903][592]LogUObjectHash: Compacting FUObjectHashTables data took   2.07ms
+[2022.05.23-08.57.57:975][592]LogAssetEditorSubsystem: Opening Asset editor for World /Game/Maps/Level_Test_Shader.Level_Test_Shader
+[2022.05.23-08.57.57:976][592]Cmd: MAP LOAD FILE="../../../../../LabProject/Labproject/GameFolder/Content/Maps/Level_Test_Shader.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2022.05.23-08.57.57:976][592]LightingResults: New page: Lighting Build
+[2022.05.23-08.57.57:977][592]LoadErrors: New page: Loading map: Level_Test_Shader.umap
+[2022.05.23-08.57.58:021][592]LogWorld: UWorld::CleanupWorld for Warehouse, bSessionEnded=true, bCleanupResources=true
+[2022.05.23-08.57.58:022][592]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.05.23-08.57.58:023][592]MapCheck: New page: Map Check
+[2022.05.23-08.57.58:023][592]LightingResults: New page: Lighting Build
+[2022.05.23-08.57.58:038][592]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.05.23-08.57.58:057][592]LogUObjectHash: Compacting FUObjectHashTables data took   2.26ms
+[2022.05.23-08.57.58:065][592]LogAudio: Display: Audio Device (ID: 1) registered with world 'Level_Test_Shader'.
+[2022.05.23-08.57.58:168][592]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2022.05.23-08.57.58:169][592]LogAIModule: Creating AISystem for world Level_Test_Shader
+[2022.05.23-08.57.58:206][592]LogUObjectHash: Compacting FUObjectHashTables data took   1.66ms
+[2022.05.23-08.57.58:242][592]Cmd: MAP CHECKDEP NOCLEARLOG
+[2022.05.23-08.57.58:242][592]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0,217ms to complete.
+[2022.05.23-08.57.58:242][592]LogFileHelpers: Loading map 'Level_Test_Shader' took 0.267
+[2022.05.23-08.58.11:624][989]LogContentBrowser: Deferred new asset folder creation: NewFolder
+[2022.05.23-08.58.11:748][989]LogContentBrowser: Creating deferred item: NewFolder
+[2022.05.23-08.58.18:155][143]LogContentBrowser: Attempting asset rename: NewFolder -> Shader
+[2022.05.23-08.58.18:158][143]LogContentBrowser: End creating deferred item NewFolder
+[2022.05.23-08.58.22:662][242]LogContentBrowser: Deferred new asset folder creation: NewFolder
+[2022.05.23-08.58.22:706][242]LogContentBrowser: Creating deferred item: NewFolder
+[2022.05.23-08.58.28:563][380]LogContentBrowser: Attempting asset rename: NewFolder -> Material
+[2022.05.23-08.58.28:567][380]LogContentBrowser: End creating deferred item NewFolder
+[2022.05.23-08.58.32:888][475]LogContentBrowser: Deferred new asset file creation: NewMaterial
+[2022.05.23-08.58.32:928][475]LogContentBrowser: Creating deferred item: NewMaterial
+[2022.05.23-08.58.43:864][731]LogContentBrowser: Attempting asset rename: NewMaterial -> Shader_Test_01
+[2022.05.23-08.58.44:239][731]LogContentBrowser: End creating deferred item NewMaterial
+[2022.05.23-08.58.46:405][766]LogAssetEditorSubsystem: Opening Asset editor for Material /Game/Shader/Material/Shader_Test_01.Shader_Test_01
+[2022.05.23-08.58.46:592][766]LogMaterial: Display: Missing cached shadermap for Shader_Test_01 in PCD3D_SM5, Default, SM5 (DDC key hash: CC458D1A6F0C1E7836521F7A60AD272752725C55), compiling. 
+[2022.05.23-08.58.46:655][766]LogShaderCompilers: Display: Submitted 10 shader compile jobs with 'Normal' priority
+[2022.05.23-08.58.46:866][766]LogTexture: Default maximum texture size for cubemaps generated from long-lat sources has been changed from 512 to unlimited. In order to preserve old behaiour for '/Engine/EditorMaterials/AssetViewer/EpicQuadPanorama_CC+EV1.EpicQuadPanorama_CC+EV1', its maximum texture size has been explicitly set to 512.
+[2022.05.23-08.58.47:584][766]LogTexture: Default maximum texture size for cubemaps generated from long-lat sources has been changed from 512 to unlimited. In order to preserve old behaiour for '/Engine/MapTemplates/Sky/SunsetAmbientCubemap.SunsetAmbientCubemap', its maximum texture size has been explicitly set to 512.
+[2022.05.23-08.58.50:350][766]LogMaterial: Display: Missing cached shadermap for Shader_Test_01 in PCD3D_SM5, Default, SM5 (DDC key hash: 000F60235EC34D129CA30D153F1915BE8C756505), compiling. 
+[2022.05.23-08.58.50:361][766]LogMaterial: Display: Missing cached shadermap for Shader_Test_01 in PCD3D_SM5, Default, SM5 (DDC key hash: FAD758FE33880580A27DFB9393052EF3ED836A07), compiling. 
+[2022.05.23-08.58.50:480][766]MaterialEditorStats: Texture samplers: 0/16
+[2022.05.23-08.58.50:514][766]LogSlate: Took 0.022898 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2022.05.23-08.58.52:052][766]LogShaderCompilers: Display: Submitted 2 shader compile jobs with 'ForceLocal' priority
+[2022.05.23-08.58.52:053][766]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 2
+[2022.05.23-08.58.52:053][766]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 1
+[2022.05.23-08.58.52:053][766]LogShaderCompilers: Display: Started 2 'Local' shader compile jobs with 'ForceLocal' priority
+[2022.05.23-08.58.52:053][766]LogShaderCompilers: Display: Submitted 8 shader compile jobs with 'Normal' priority
+[2022.05.23-08.58.52:053][766]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 8
+[2022.05.23-08.58.52:053][766]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 6
+[2022.05.23-08.58.52:053][766]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 4
+[2022.05.23-08.58.52:053][766]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 2
+[2022.05.23-08.58.52:053][766]LogShaderCompilers: Display: Started 8 'Local' shader compile jobs with 'Normal' priority
+[2022.05.23-08.58.52:054][766]LogSlate: Took 0.081409 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/DroidSansMono.ttf' (77K)
+[2022.05.23-08.58.55:974][814]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2022.05.23-08.58.55:974][814]LogShaderCompilers: Display: Total job queries 136, among them cache hits 41 (30.15%)
+[2022.05.23-08.58.55:974][814]LogShaderCompilers: Display: Tracking 76 distinct input hashes that result in 60 distinct outputs (78.95%)
+[2022.05.23-08.58.55:975][814]LogShaderCompilers: Display: RAM used: 0.45 MB (0.00 GB) of 819.20 MB (0.80 GB) budget. Usage: 0.05%
+[2022.05.23-08.58.55:975][814]LogShaderCompilers: Display: ================================================
+[2022.05.23-08.58.58:358][850]MaterialEditorStats: Texture samplers: 2/16
+[2022.05.23-08.59.06:865][919]MaterialEditorStats: Base pass shader: 117 instructions
+[2022.05.23-08.59.06:865][919]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 191 instructions
+[2022.05.23-08.59.06:865][919]MaterialEditorStats: Base pass vertex shader: 42 instructions
+[2022.05.23-08.59.06:865][919]MaterialEditorStats: Texture samplers: 2/16
+[2022.05.23-09.03.08:149][321]LogSlate: Only BGRA pngs, bmps or icos are supported in by External Image Picker
+[2022.05.23-09.03.10:670][382]LogSlate: Window 'Project Settings' being destroyed
+[2022.05.23-09.03.10:687][382]LogSlate: Window 'Project Settings' being destroyed
+[2022.05.23-09.03.12:517][430]LogSlate: Window 'Shader_Test_01' being destroyed
+[2022.05.23-09.03.21:113][842]LogSlate: Only BGRA pngs, bmps or icos are supported in by External Image Picker
+[2022.05.23-09.04.12:337][240]SourceControl: fatal: /Script: '/Script' is outside repository at 'D:/LabProject/Labproject'
+[2022.05.23-09.04.16:283][337]LogSlate: Window 'Project Settings' being destroyed
+[2022.05.23-09.04.16:308][337]LogSlate: Window 'Project Settings' being destroyed
+[2022.05.23-09.04.31:730][883]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Shader/Material/Shader_Test_01" FILE="../../../../../LabProject/Labproject/GameFolder/Content/Shader/Material/Shader_Test_01.uasset" SILENT=true
+[2022.05.23-09.04.31:920][883]LogSavePackage: Moving '../../../../../LabProject/Labproject/GameFolder/Saved/Shader_Test_01DDCC5CB544860886C2AFA68023CDE754.tmp' to '../../../../../LabProject/Labproject/GameFolder/Content/Shader/Material/Shader_Test_01.uasset'
+[2022.05.23-09.04.32:379][883]AssetCheck: New page: Asset Save: Shader_Test_01
+[2022.05.23-09.04.32:380][883]LogContentValidation: Display: Validating Material /Game/Shader/Material/Shader_Test_01.Shader_Test_01
+[2022.05.23-09.04.40:885][119]SourceControl: fatal: D:/UNREAL/UE_4.27/Engine/Content: 'D:/UNREAL/UE_4.27/Engine/Content' is outside repository at 'D:/LabProject/Labproject'
+[2022.05.23-09.04.40:885][119]SourceControl: fatal: D:/UNREAL/UE_4.27/Engine/Plugins/2D/Paper2D/Content: 'D:/UNREAL/UE_4.27/Engine/Plugins/2D/Paper2D/Content' is outside repository at 'D:/LabProject/Labproject'
+[2022.05.23-09.04.40:886][119]SourceControl: fatal: D:/UNREAL/UE_4.27/Engine/Plugins/Developer/AnimationSharing/Content: 'D:/UNREAL/UE_4.27/Engine/Plugins/Developer/AnimationSharing/Content' is outside repository at 'D:/LabProject/Labproject'
+[2022.05.23-09.04.40:886][119]SourceControl: fatal: D:/UNREAL/UE_4.27/Engine/Plugins/Enterprise/DatasmithContent/Content: 'D:/UNREAL/UE_4.27/Engine/Plugins/Enterprise/DatasmithContent/Content' is outside repository at 'D:/LabProject/Labproject'
+[2022.05.23-09.04.40:886][119]SourceControl: fatal: D:/UNREAL/UE_4.27/Engine/Plugins/Editor/GeometryMode/Content: 'D:/UNREAL/UE_4.27/Engine/Plugins/Editor/GeometryMode/Content' is outside repository at 'D:/LabProject/Labproject'
+[2022.05.23-09.04.40:886][119]SourceControl: fatal: D:/UNREAL/UE_4.27/Engine/Plugins/Editor/SpeedTreeImporter/Content: 'D:/UNREAL/UE_4.27/Engine/Plugins/Editor/SpeedTreeImporter/Content' is outside repository at 'D:/LabProject/Labproject'
+[2022.05.23-09.04.40:886][119]SourceControl: fatal: D:/UNREAL/UE_4.27/Engine/Plugins/Experimental/ChaosClothEditor/Content: 'D:/UNREAL/UE_4.27/Engine/Plugins/Experimental/ChaosClothEditor/Content' is outside repository at 'D:/LabProject/Labproject'
+[2022.05.23-09.04.40:886][119]SourceControl: fatal: D:/UNREAL/UE_4.27/Engine/Plugins/Experimental/ChaosNiagara/Content: 'D:/UNREAL/UE_4.27/Engine/Plugins/Experimental/ChaosNiagara/Content' is outside repository at 'D:/LabProject/Labproject'
+[2022.05.23-09.04.40:886][119]SourceControl: fatal: D:/UNREAL/UE_4.27/Engine/Plugins/Experimental/ChaosSolverPlugin/Content: 'D:/UNREAL/UE_4.27/Engine/Plugins/Experimental/ChaosSolverPlugin/Content' is outside repository at 'D:/LabProject/Labproject'
+[2022.05.23-09.04.40:886][119]SourceControl: fatal: D:/UNREAL/UE_4.27/Engine/Plugins/Experimental/GeometryCollectionPlugin/Content: 'D:/UNREAL/UE_4.27/Engine/Plugins/Experimental/GeometryCollectionPlugin/Content' is outside repository at 'D:/LabProject/Labproject'
+[2022.05.23-09.04.40:886][119]SourceControl: fatal: D:/UNREAL/UE_4.27/Engine/Plugins/Experimental/GeometryProcessing/Content: 'D:/UNREAL/UE_4.27/Engine/Plugins/Experimental/GeometryProcessing/Content' is outside repository at 'D:/LabProject/Labproject'
+[2022.05.23-09.04.40:886][119]SourceControl: fatal: D:/UNREAL/UE_4.27/Engine/Plugins/Experimental/MotoSynth/Content: 'D:/UNREAL/UE_4.27/Engine/Plugins/Experimental/MotoSynth/Content' is outside repository at 'D:/LabProject/Labproject'
+[2022.05.23-09.04.40:886][119]SourceControl: fatal: D:/UNREAL/UE_4.27/Engine/Plugins/Experimental/PythonScriptPlugin/Content: 'D:/UNREAL/UE_4.27/Engine/Plugins/Experimental/PythonScriptPlugin/Content' is outside repository at 'D:/LabProject/Labproject'
+[2022.05.23-09.04.40:886][119]SourceControl: fatal: D:/UNREAL/UE_4.27/Engine/Plugins/FX/Niagara/Content: 'D:/UNREAL/UE_4.27/Engine/Plugins/FX/Niagara/Content' is outside repository at 'D:/LabProject/Labproject'
+[2022.05.23-09.04.40:887][119]SourceControl: fatal: D:/UNREAL/UE_4.27/Engine/Plugins/Lumin/MagicLeap/Content: 'D:/UNREAL/UE_4.27/Engine/Plugins/Lumin/MagicLeap/Content' is outside repository at 'D:/LabProject/Labproject'
+[2022.05.23-09.04.40:887][119]SourceControl: fatal: D:/UNREAL/UE_4.27/Engine/Plugins/Lumin/MagicLeapPassableWorld/Content: 'D:/UNREAL/UE_4.27/Engine/Plugins/Lumin/MagicLeapPassableWorld/Content' is outside repository at 'D:/LabProject/Labproject'
+[2022.05.23-09.04.40:887][119]SourceControl: fatal: D:/UNREAL/UE_4.27/Engine/Plugins/Media/MediaCompositing/Content: 'D:/UNREAL/UE_4.27/Engine/Plugins/Media/MediaCompositing/Content' is outside repository at 'D:/LabProject/Labproject'
+[2022.05.23-09.04.40:887][119]SourceControl: fatal: D:/UNREAL/UE_4.27/Engine/Plugins/Runtime/AudioSynesthesia/Content: 'D:/UNREAL/UE_4.27/Engine/Plugins/Runtime/AudioSynesthesia/Content' is outside repository at 'D:/LabProject/Labproject'
+[2022.05.23-09.04.40:887][119]SourceControl: fatal: D:/UNREAL/UE_4.27/Engine/Plugins/Runtime/OpenXR/Content: 'D:/UNREAL/UE_4.27/Engine/Plugins/Runtime/OpenXR/Content' is outside repository at 'D:/LabProject/Labproject'
+[2022.05.23-09.04.40:887][119]SourceControl: fatal: D:/UNREAL/UE_4.27/Engine/Plugins/Runtime/OpenXREyeTracker/Content: 'D:/UNREAL/UE_4.27/Engine/Plugins/Runtime/OpenXREyeTracker/Content' is outside repository at 'D:/LabProject/Labproject'
+[2022.05.23-09.04.40:887][119]SourceControl: fatal: D:/UNREAL/UE_4.27/Engine/Plugins/Runtime/OpenXRHandTracking/Content: 'D:/UNREAL/UE_4.27/Engine/Plugins/Runtime/OpenXRHandTracking/Content' is outside repository at 'D:/LabProject/Labproject'
+[2022.05.23-09.04.40:887][119]SourceControl: fatal: D:/UNREAL/UE_4.27/Engine/Plugins/Runtime/PostSplashScreen/Content: 'D:/UNREAL/UE_4.27/Engine/Plugins/Runtime/PostSplashScreen/Content' is outside repository at 'D:/LabProject/Labproject'
+[2022.05.23-09.04.40:887][119]SourceControl: fatal: D:/UNREAL/UE_4.27/Engine/Plugins/Runtime/Synthesis/Content: 'D:/UNREAL/UE_4.27/Engine/Plugins/Runtime/Synthesis/Content' is outside repository at 'D:/LabProject/Labproject'
+[2022.05.23-09.04.40:887][119]SourceControl: fatal: D:/UNREAL/UE_4.27/Engine/Plugins/VirtualProduction/Takes/Content: 'D:/UNREAL/UE_4.27/Engine/Plugins/VirtualProduction/Takes/Content' is outside repository at 'D:/LabProject/Labproject'
+[2022.05.23-09.04.40:887][119]SourceControl: fatal: D:/UNREAL/UE_4.27/Engine/Plugins/Runtime/Oculus/OculusVR/Content: 'D:/UNREAL/UE_4.27/Engine/Plugins/Runtime/Oculus/OculusVR/Content' is outside repository at 'D:/LabProject/Labproject'
+[2022.05.23-09.04.40:887][119]SourceControl: fatal: D:/UNREAL/UE_4.27/Engine/Plugins/Runtime/Steam/SteamVR/Content: 'D:/UNREAL/UE_4.27/Engine/Plugins/Runtime/Steam/SteamVR/Content' is outside repository at 'D:/LabProject/Labproject'
+[2022.05.23-09.04.41:683][119]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Shader/Material/Shader_Test_01" FILE="../../../../../LabProject/Labproject/GameFolder/Content/Shader/Material/Shader_Test_01.uasset" SILENT=true
+[2022.05.23-09.04.41:686][119]LogSavePackage: Moving '../../../../../LabProject/Labproject/GameFolder/Saved/Shader_Test_0198AC672B4AFDB09B3C8F51A4B780C484.tmp' to '../../../../../LabProject/Labproject/GameFolder/Content/Shader/Material/Shader_Test_01.uasset'
+[2022.05.23-09.04.58:691][119]LogSlate: Window 'Submit Files' being destroyed
+[2022.05.23-09.05.00:835][119]LogSourceControl: commit successful: [main ad076d6] Add Material Shader
+[2022.05.23-09.05.00:923][119]SourceControl: [main ad076d6] Add Material Shader
+[2022.05.23-09.05.00:923][119]SourceControl:  1 file changed, 0 insertions(+), 0 deletions(-)
+[2022.05.23-09.05.00:923][119]SourceControl:  create mode 100644 GameFolder/Content/Shader/Material/Shader_Test_01.uasset
+[2022.05.23-09.05.00:940][119]SourceControl: Commited [main ad076d6] Add Material Shader.
+[2022.05.23-09.05.00:981][120]AssetCheck: New page: Asset Save: Shader_Test_01
+[2022.05.23-09.05.00:981][120]LogContentValidation: Display: Validating Material /Game/Shader/Material/Shader_Test_01.Shader_Test_01
