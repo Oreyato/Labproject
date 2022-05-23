@@ -72,3 +72,5 @@ Plugins/*/Intermediate/*
 
 # Cache files for the editor to use
 DerivedDataCache/*
+GameFolder/Saved/Config/CrashReportClient/UE4CC-Windows-01D7ED9F4F8E8E8F25988A870BEF34FD/CrashReportClient.ini
+GameFolder/Saved/Logs/GameFolder-backup-2022.05.23-09.09.01.log
