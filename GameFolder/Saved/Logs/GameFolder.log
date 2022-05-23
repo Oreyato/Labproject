@@ -1092,3 +1092,147 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2022.05.23-09.05.00:940][119]SourceControl: Commited [main ad076d6] Add Material Shader.
 [2022.05.23-09.05.00:981][120]AssetCheck: New page: Asset Save: Shader_Test_01
 [2022.05.23-09.05.00:981][120]LogContentValidation: Display: Validating Material /Game/Shader/Material/Shader_Test_01.Shader_Test_01
+[2022.05.23-09.19.30:162][490]LogAudioMixer: Display: Audio Buffer Underrun (starvation) detected.
+[2022.05.23-09.26.11:003][392]LogUObjectHash: Compacting FUObjectHashTables data took  14.44ms
+[2022.05.23-09.26.13:394][392]LogSlate: Window 'Delete Assets' being destroyed
+[2022.05.23-09.26.15:372][392]LogWorld: UWorld::CleanupWorld for World_1, bSessionEnded=true, bCleanupResources=true
+[2022.05.23-09.26.15:372][392]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.05.23-09.26.15:699][392]LogUObjectGlobals: Force Deleting 1 Package(s):
+	Asset Name: /Game/Shader/Material/Shader_Test_01.Shader_Test_01
+[2022.05.23-09.26.16:906][392]LogUObjectHash: Compacting FUObjectHashTables data took   2.48ms
+[2022.05.23-09.26.16:936][392]LogUObjectHash: Compacting FUObjectHashTables data took   2.65ms
+[2022.05.23-09.26.16:955][392]LogUObjectHash: Compacting FUObjectHashTables data took   1.36ms
+[2022.05.23-09.26.17:541][392]SourceControl: Error: Updated 0 paths from the index
+[2022.05.23-09.26.17:954][392]SourceControl: Error: warning: could not open directory 'GameFolder/Content/Shader/': No such file or directory
+[2022.05.23-09.26.17:954][392]SourceControl: rm 'GameFolder/Content/Shader/Material/Shader_Test_01.uasset'
+[2022.05.23-09.26.22:089][499]LogContentBrowser: Deferred new asset folder creation: NewFolder
+[2022.05.23-09.26.22:178][499]LogContentBrowser: Creating deferred item: NewFolder
+[2022.05.23-09.26.31:976][768]LogContentBrowser: Attempting asset rename: NewFolder -> Shader
+[2022.05.23-09.26.31:977][768]LogContentBrowser: End creating deferred item NewFolder
+[2022.05.23-09.26.36:513][887]LogContentBrowser: Deferred new asset folder creation: NewFolder
+[2022.05.23-09.26.36:546][887]LogContentBrowser: Creating deferred item: NewFolder
+[2022.05.23-09.26.39:480][960]LogContentBrowser: Attempting asset rename: NewFolder -> Materials
+[2022.05.23-09.26.39:481][960]LogContentBrowser: End creating deferred item NewFolder
+[2022.05.23-09.26.42:865][ 43]LogContentBrowser: Deferred new asset file creation: NewMaterial
+[2022.05.23-09.26.42:922][ 43]LogContentBrowser: Creating deferred item: NewMaterial
+[2022.05.23-09.26.52:907][277]LogContentBrowser: Attempting asset rename: NewMaterial -> Shader_Test_01
+[2022.05.23-09.26.53:318][277]LogContentBrowser: End creating deferred item NewMaterial
+[2022.05.23-09.35.18:654][249]Cmd: DELETE
+[2022.05.23-09.35.18:675][249]Cmd: ACTOR DELETE
+[2022.05.23-09.35.19:395][249]LogEditorActor: Deleted Actor: Brush
+[2022.05.23-09.35.19:603][249]LogUObjectHash: Compacting FUObjectHashTables data took   0.85ms
+[2022.05.23-09.35.19:743][249]LogUnrealMath: Error: FMatrix::InverseFast(), trying to invert a non-invertible matrix, this results in NaNs! Use Inverse() instead.
+[2022.05.23-09.35.19:775][249]LogOutputDevice: Warning: 
+
+Script Stack (0 frames):
+
+[2022.05.23-09.35.20:515][249]LogStats: FPlatformStackWalk::StackWalkAndDump -  0.740 s
+[2022.05.23-09.35.20:515][249]LogOutputDevice: Error: === Handled ensure: ===
+[2022.05.23-09.35.20:515][249]LogOutputDevice: Error: 
+[2022.05.23-09.35.20:515][249]LogOutputDevice: Error: Ensure condition failed: false [File:D:/Build/++UE4/Sync/Engine/Source/Runtime/Core/Private/Math/Matrix.cpp] [Line: 8]
+[2022.05.23-09.35.20:515][249]LogOutputDevice: Error: FMatrix::InverseFast(), trying to invert a non-invertible matrix, this results in NaNs! Use Inverse() instead.
+[2022.05.23-09.35.20:515][249]LogOutputDevice: Error: Stack: 
+[2022.05.23-09.35.20:515][249]LogOutputDevice: Error: [Callstack] 0x00007ff897f69326 UE4Editor-Core.dll!UnknownFunction []
+[2022.05.23-09.35.20:515][249]LogOutputDevice: Error: [Callstack] 0x00007ff89788259e UE4Editor-Core.dll!UnknownFunction []
+[2022.05.23-09.35.20:515][249]LogOutputDevice: Error: [Callstack] 0x00007ff88c56835b UE4Editor-Engine.dll!UnknownFunction []
+[2022.05.23-09.35.20:515][249]LogOutputDevice: Error: [Callstack] 0x00007ff88cedb8c2 UE4Editor-Engine.dll!UnknownFunction []
+[2022.05.23-09.35.20:515][249]LogOutputDevice: Error: [Callstack] 0x00007ff88cf23517 UE4Editor-Engine.dll!UnknownFunction []
+[2022.05.23-09.35.20:516][249]LogOutputDevice: Error: [Callstack] 0x00007ff88aef4275 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2022.05.23-09.35.20:516][249]LogOutputDevice: Error: [Callstack] 0x00007ff88ae1cc56 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2022.05.23-09.35.20:516][249]LogOutputDevice: Error: [Callstack] 0x00007ff88b72822d UE4Editor-UnrealEd.dll!UnknownFunction []
+[2022.05.23-09.35.20:516][249]LogOutputDevice: Error: [Callstack] 0x00007ff88b722b16 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2022.05.23-09.35.20:516][249]LogOutputDevice: Error: [Callstack] 0x00007ff88aed7f3b UE4Editor-UnrealEd.dll!UnknownFunction []
+[2022.05.23-09.35.20:516][249]LogOutputDevice: Error: [Callstack] 0x00007ff88aec1d71 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2022.05.23-09.35.20:516][249]LogOutputDevice: Error: [Callstack] 0x00007ff88b722917 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2022.05.23-09.35.20:516][249]LogOutputDevice: Error: [Callstack] 0x00007ff872f366ac UE4Editor-LevelEditor.dll!UnknownFunction []
+[2022.05.23-09.35.20:516][249]LogOutputDevice: Error: [Callstack] 0x00007ff872f393ee UE4Editor-LevelEditor.dll!UnknownFunction []
+[2022.05.23-09.35.20:516][249]LogOutputDevice: Error: [Callstack] 0x00007ff8a11f9657 UE4Editor-Slate.dll!UnknownFunction []
+[2022.05.23-09.35.20:516][249]LogOutputDevice: Error: [Callstack] 0x00007ff8a1246e4a UE4Editor-Slate.dll!UnknownFunction []
+[2022.05.23-09.35.20:516][249]LogOutputDevice: Error: [Callstack] 0x00007ff88b525ecb UE4Editor-UnrealEd.dll!UnknownFunction []
+[2022.05.23-09.35.20:516][249]LogOutputDevice: Error: [Callstack] 0x00007ff873043760 UE4Editor-LevelEditor.dll!UnknownFunction []
+[2022.05.23-09.35.20:516][249]LogOutputDevice: Error: [Callstack] 0x00007ff8a1112112 UE4Editor-Slate.dll!UnknownFunction []
+[2022.05.23-09.35.20:517][249]LogOutputDevice: Error: [Callstack] 0x00007ff8a1175087 UE4Editor-Slate.dll!UnknownFunction []
+[2022.05.23-09.35.20:517][249]LogOutputDevice: Error: [Callstack] 0x00007ff8a1168756 UE4Editor-Slate.dll!UnknownFunction []
+[2022.05.23-09.35.20:517][249]LogOutputDevice: Error: [Callstack] 0x00007ff8f910bcc8 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2022.05.23-09.35.20:517][249]LogOutputDevice: Error: [Callstack] 0x00007ff8f90f92b7 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2022.05.23-09.35.20:517][249]LogOutputDevice: Error: [Callstack] 0x00007ff8f910e465 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2022.05.23-09.35.20:517][249]LogOutputDevice: Error: [Callstack] 0x00007ff8f90f4410 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2022.05.23-09.35.20:517][249]LogOutputDevice: Error: [Callstack] 0x00007ff946161c4c USER32.dll!UnknownFunction []
+[2022.05.23-09.35.20:517][249]LogOutputDevice: Error: [Callstack] 0x00007ff946160ea6 USER32.dll!UnknownFunction []
+[2022.05.23-09.35.20:517][249]LogOutputDevice: Error: [Callstack] 0x00007ff8f910fcd4 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2022.05.23-09.35.20:517][249]LogOutputDevice: Error: [Callstack] 0x00007ff7dcdc7621 UE4Editor.exe!UnknownFunction []
+[2022.05.23-09.35.20:517][249]LogOutputDevice: Error: [Callstack] 0x00007ff7dcde0fcc UE4Editor.exe!UnknownFunction []
+[2022.05.23-09.35.20:517][249]LogOutputDevice: Error: [Callstack] 0x00007ff7dcde10ba UE4Editor.exe!UnknownFunction []
+[2022.05.23-09.35.20:517][249]LogOutputDevice: Error: [Callstack] 0x00007ff7dcde40dd UE4Editor.exe!UnknownFunction []
+[2022.05.23-09.35.20:517][249]LogOutputDevice: Error: [Callstack] 0x00007ff7dcdf5984 UE4Editor.exe!UnknownFunction []
+[2022.05.23-09.35.20:517][249]LogOutputDevice: Error: [Callstack] 0x00007ff7dcdf853a UE4Editor.exe!UnknownFunction []
+[2022.05.23-09.35.20:517][249]LogOutputDevice: Error: [Callstack] 0x00007ff945c554e0 KERNEL32.DLL!UnknownFunction []
+[2022.05.23-09.35.20:518][249]LogOutputDevice: Error: [Callstack] 0x00007ff9478e485b ntdll.dll!UnknownFunction []
+[2022.05.23-09.35.20:518][249]LogOutputDevice: Error: 
+[2022.05.23-09.35.20:655][249]LogStats:                SubmitErrorReport -  0.000 s
+[2022.05.23-09.35.42:271][249]LogStats:                    SendNewReport - 21.615 s
+[2022.05.23-09.35.42:271][249]LogStats:             FDebug::EnsureFailed - 22.497 s
+[2022.05.23-09.35.42:271][249]LogUnrealMath: Error: FMatrix::InverseFast(), trying to invert a non-invertible matrix, this results in NaNs! Use Inverse() instead.
+[2022.05.23-09.35.42:461][249]LogEditorActor: Deleted 1 Actors (23.180 secs)
+[2022.05.23-09.35.42:520][249]LogAudioMixer: Resetting audio stream to device id 
+[2022.05.23-09.35.42:552][249]LogAudioMixer: Display: 0: FrontLeft
+[2022.05.23-09.35.42:552][249]LogAudioMixer: Display: 1: FrontRight
+[2022.05.23-09.35.43:024][250]LogUObjectHash: Compacting FUObjectHashTables data took   0.87ms
+[2022.05.23-09.35.43:183][250]LogSavePackage: Moving '../../../../../LabProject/Labproject/GameFolder/Saved/Level_Test_Shader_Auto12CDC87D94089E5B03D7B86B4F3F29B8F.tmp' to '../../../../../LabProject/Labproject/GameFolder/Saved/Autosaves/Game/Maps/Level_Test_Shader_Auto1.umap'
+[2022.05.23-09.35.43:186][250]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Maps/Level_Test_Shader' took 0.173
+[2022.05.23-09.35.43:187][250]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.173
+[2022.05.23-09.35.50:845][433]LogUObjectHash: Compacting FUObjectHashTables data took   0.72ms
+[2022.05.23-09.35.54:637][433]LogSlate: Window 'Save Content' being destroyed
+[2022.05.23-09.35.54:970][433]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Level_Test_Shader" FILE="../../../../../LabProject/Labproject/GameFolder/Content/Maps/Level_Test_Shader.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2022.05.23-09.35.54:983][433]LogUObjectHash: Compacting FUObjectHashTables data took   0.58ms
+[2022.05.23-09.35.55:179][433]LogSavePackage: Moving '../../../../../LabProject/Labproject/GameFolder/Saved/Level_Test_Shader811949FD444BE6469DE2CFA4B75E4943.tmp' to '../../../../../LabProject/Labproject/GameFolder/Content/Maps/Level_Test_Shader.umap'
+[2022.05.23-09.35.55:206][433]LogFileHelpers: Saving map 'Level_Test_Shader' took 0.237
+[2022.05.23-09.35.55:239][433]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Materials/Shader/Materials/Shader_Test_01" FILE="../../../../../LabProject/Labproject/GameFolder/Content/Materials/Shader/Materials/Shader_Test_01.uasset" SILENT=true
+[2022.05.23-09.35.55:249][433]LogSavePackage: Moving '../../../../../LabProject/Labproject/GameFolder/Saved/Shader_Test_01AB8B04AB4A0D89B80950ED88B2B84626.tmp' to '../../../../../LabProject/Labproject/GameFolder/Content/Materials/Shader/Materials/Shader_Test_01.uasset'
+[2022.05.23-09.35.55:866][433]AssetCheck: New page: Asset Save: multiple assets
+[2022.05.23-09.35.55:866][433]LogContentValidation: Display: Validating Material /Game/Materials/Shader/Materials/Shader_Test_01.Shader_Test_01
+[2022.05.23-09.35.55:866][433]LogContentValidation: Display: Validating World /Game/Maps/Level_Test_Shader.Level_Test_Shader
+[2022.05.23-09.36.06:211][740]SourceControl: fatal: D:/UNREAL/UE_4.27/Engine/Content: 'D:/UNREAL/UE_4.27/Engine/Content' is outside repository at 'D:/LabProject/Labproject'
+[2022.05.23-09.36.06:211][740]SourceControl: fatal: D:/UNREAL/UE_4.27/Engine/Plugins/2D/Paper2D/Content: 'D:/UNREAL/UE_4.27/Engine/Plugins/2D/Paper2D/Content' is outside repository at 'D:/LabProject/Labproject'
+[2022.05.23-09.36.06:211][740]SourceControl: fatal: D:/UNREAL/UE_4.27/Engine/Plugins/Developer/AnimationSharing/Content: 'D:/UNREAL/UE_4.27/Engine/Plugins/Developer/AnimationSharing/Content' is outside repository at 'D:/LabProject/Labproject'
+[2022.05.23-09.36.06:211][740]SourceControl: fatal: D:/UNREAL/UE_4.27/Engine/Plugins/Enterprise/DatasmithContent/Content: 'D:/UNREAL/UE_4.27/Engine/Plugins/Enterprise/DatasmithContent/Content' is outside repository at 'D:/LabProject/Labproject'
+[2022.05.23-09.36.06:211][740]SourceControl: fatal: D:/UNREAL/UE_4.27/Engine/Plugins/Editor/GeometryMode/Content: 'D:/UNREAL/UE_4.27/Engine/Plugins/Editor/GeometryMode/Content' is outside repository at 'D:/LabProject/Labproject'
+[2022.05.23-09.36.06:211][740]SourceControl: fatal: D:/UNREAL/UE_4.27/Engine/Plugins/Editor/SpeedTreeImporter/Content: 'D:/UNREAL/UE_4.27/Engine/Plugins/Editor/SpeedTreeImporter/Content' is outside repository at 'D:/LabProject/Labproject'
+[2022.05.23-09.36.06:211][740]SourceControl: fatal: D:/UNREAL/UE_4.27/Engine/Plugins/Experimental/ChaosClothEditor/Content: 'D:/UNREAL/UE_4.27/Engine/Plugins/Experimental/ChaosClothEditor/Content' is outside repository at 'D:/LabProject/Labproject'
+[2022.05.23-09.36.06:211][740]SourceControl: fatal: D:/UNREAL/UE_4.27/Engine/Plugins/Experimental/ChaosNiagara/Content: 'D:/UNREAL/UE_4.27/Engine/Plugins/Experimental/ChaosNiagara/Content' is outside repository at 'D:/LabProject/Labproject'
+[2022.05.23-09.36.06:211][740]SourceControl: fatal: D:/UNREAL/UE_4.27/Engine/Plugins/Experimental/ChaosSolverPlugin/Content: 'D:/UNREAL/UE_4.27/Engine/Plugins/Experimental/ChaosSolverPlugin/Content' is outside repository at 'D:/LabProject/Labproject'
+[2022.05.23-09.36.06:211][740]SourceControl: fatal: D:/UNREAL/UE_4.27/Engine/Plugins/Experimental/GeometryCollectionPlugin/Content: 'D:/UNREAL/UE_4.27/Engine/Plugins/Experimental/GeometryCollectionPlugin/Content' is outside repository at 'D:/LabProject/Labproject'
+[2022.05.23-09.36.06:212][740]SourceControl: fatal: D:/UNREAL/UE_4.27/Engine/Plugins/Experimental/GeometryProcessing/Content: 'D:/UNREAL/UE_4.27/Engine/Plugins/Experimental/GeometryProcessing/Content' is outside repository at 'D:/LabProject/Labproject'
+[2022.05.23-09.36.06:212][740]SourceControl: fatal: D:/UNREAL/UE_4.27/Engine/Plugins/Experimental/MotoSynth/Content: 'D:/UNREAL/UE_4.27/Engine/Plugins/Experimental/MotoSynth/Content' is outside repository at 'D:/LabProject/Labproject'
+[2022.05.23-09.36.06:212][740]SourceControl: fatal: D:/UNREAL/UE_4.27/Engine/Plugins/Experimental/PythonScriptPlugin/Content: 'D:/UNREAL/UE_4.27/Engine/Plugins/Experimental/PythonScriptPlugin/Content' is outside repository at 'D:/LabProject/Labproject'
+[2022.05.23-09.36.06:212][740]SourceControl: fatal: D:/UNREAL/UE_4.27/Engine/Plugins/FX/Niagara/Content: 'D:/UNREAL/UE_4.27/Engine/Plugins/FX/Niagara/Content' is outside repository at 'D:/LabProject/Labproject'
+[2022.05.23-09.36.06:212][740]SourceControl: fatal: D:/UNREAL/UE_4.27/Engine/Plugins/Lumin/MagicLeap/Content: 'D:/UNREAL/UE_4.27/Engine/Plugins/Lumin/MagicLeap/Content' is outside repository at 'D:/LabProject/Labproject'
+[2022.05.23-09.36.06:212][740]SourceControl: fatal: D:/UNREAL/UE_4.27/Engine/Plugins/Lumin/MagicLeapPassableWorld/Content: 'D:/UNREAL/UE_4.27/Engine/Plugins/Lumin/MagicLeapPassableWorld/Content' is outside repository at 'D:/LabProject/Labproject'
+[2022.05.23-09.36.06:212][740]SourceControl: fatal: D:/UNREAL/UE_4.27/Engine/Plugins/Media/MediaCompositing/Content: 'D:/UNREAL/UE_4.27/Engine/Plugins/Media/MediaCompositing/Content' is outside repository at 'D:/LabProject/Labproject'
+[2022.05.23-09.36.06:212][740]SourceControl: fatal: D:/UNREAL/UE_4.27/Engine/Plugins/Runtime/AudioSynesthesia/Content: 'D:/UNREAL/UE_4.27/Engine/Plugins/Runtime/AudioSynesthesia/Content' is outside repository at 'D:/LabProject/Labproject'
+[2022.05.23-09.36.06:212][740]SourceControl: fatal: D:/UNREAL/UE_4.27/Engine/Plugins/Runtime/OpenXR/Content: 'D:/UNREAL/UE_4.27/Engine/Plugins/Runtime/OpenXR/Content' is outside repository at 'D:/LabProject/Labproject'
+[2022.05.23-09.36.06:212][740]SourceControl: fatal: D:/UNREAL/UE_4.27/Engine/Plugins/Runtime/OpenXREyeTracker/Content: 'D:/UNREAL/UE_4.27/Engine/Plugins/Runtime/OpenXREyeTracker/Content' is outside repository at 'D:/LabProject/Labproject'
+[2022.05.23-09.36.06:212][740]SourceControl: fatal: D:/UNREAL/UE_4.27/Engine/Plugins/Runtime/OpenXRHandTracking/Content: 'D:/UNREAL/UE_4.27/Engine/Plugins/Runtime/OpenXRHandTracking/Content' is outside repository at 'D:/LabProject/Labproject'
+[2022.05.23-09.36.06:212][740]SourceControl: fatal: D:/UNREAL/UE_4.27/Engine/Plugins/Runtime/PostSplashScreen/Content: 'D:/UNREAL/UE_4.27/Engine/Plugins/Runtime/PostSplashScreen/Content' is outside repository at 'D:/LabProject/Labproject'
+[2022.05.23-09.36.06:212][740]SourceControl: fatal: D:/UNREAL/UE_4.27/Engine/Plugins/Runtime/Synthesis/Content: 'D:/UNREAL/UE_4.27/Engine/Plugins/Runtime/Synthesis/Content' is outside repository at 'D:/LabProject/Labproject'
+[2022.05.23-09.36.06:212][740]SourceControl: fatal: D:/UNREAL/UE_4.27/Engine/Plugins/VirtualProduction/Takes/Content: 'D:/UNREAL/UE_4.27/Engine/Plugins/VirtualProduction/Takes/Content' is outside repository at 'D:/LabProject/Labproject'
+[2022.05.23-09.36.06:212][740]SourceControl: fatal: D:/UNREAL/UE_4.27/Engine/Plugins/Runtime/Oculus/OculusVR/Content: 'D:/UNREAL/UE_4.27/Engine/Plugins/Runtime/Oculus/OculusVR/Content' is outside repository at 'D:/LabProject/Labproject'
+[2022.05.23-09.36.06:212][740]SourceControl: fatal: D:/UNREAL/UE_4.27/Engine/Plugins/Runtime/Steam/SteamVR/Content: 'D:/UNREAL/UE_4.27/Engine/Plugins/Runtime/Steam/SteamVR/Content' is outside repository at 'D:/LabProject/Labproject'
+[2022.05.23-09.36.07:009][740]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Level_Test_Shader" FILE="../../../../../LabProject/Labproject/GameFolder/Content/Maps/Level_Test_Shader.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2022.05.23-09.36.07:030][740]LogUObjectHash: Compacting FUObjectHashTables data took   2.67ms
+[2022.05.23-09.36.07:292][740]LogSavePackage: Moving '../../../../../LabProject/Labproject/GameFolder/Saved/Level_Test_Shader39F85BBF4B9CC8DBBAFF868BBDE639F0.tmp' to '../../../../../LabProject/Labproject/GameFolder/Content/Maps/Level_Test_Shader.umap'
+[2022.05.23-09.36.07:313][740]LogFileHelpers: Saving map 'Level_Test_Shader' took 0.305
+[2022.05.23-09.36.07:314][740]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Materials/Shader/Materials/Shader_Test_01" FILE="../../../../../LabProject/Labproject/GameFolder/Content/Materials/Shader/Materials/Shader_Test_01.uasset" SILENT=true
+[2022.05.23-09.36.07:317][740]LogSavePackage: Moving '../../../../../LabProject/Labproject/GameFolder/Saved/Shader_Test_01067E44874E1C01DDB89CE5BB08EDE2D3.tmp' to '../../../../../LabProject/Labproject/GameFolder/Content/Materials/Shader/Materials/Shader_Test_01.uasset'
+[2022.05.23-09.36.13:936][740]LogSlate: Window 'Submit Files' being destroyed
+[2022.05.23-09.36.14:486][740]SourceControl: Error: warning: could not open directory 'GameFolder/Content/Shader/': No such file or directory
+[2022.05.23-09.36.17:088][740]LogSourceControl: commit successful: [main 83910a6] rigolo
+[2022.05.23-09.36.17:461][740]SourceControl: Error: warning: could not open directory 'GameFolder/Content/Shader/': No such file or directory
+[2022.05.23-09.36.17:461][740]SourceControl: [main 83910a6] rigolo
+[2022.05.23-09.36.17:461][740]SourceControl:  4 files changed, 1 insertion(+)
+[2022.05.23-09.36.17:461][740]SourceControl:  create mode 100644 GameFolder/Content/Materials/Shader/Materials/Shader_Test_01.uasset
+[2022.05.23-09.36.17:461][740]SourceControl:  delete mode 100644 GameFolder/Content/Shader/Material/Shader_Test_01.uasset
+[2022.05.23-09.36.17:477][740]SourceControl: Commited [main 83910a6] rigolo.
+[2022.05.23-09.36.17:530][741]AssetCheck: New page: Asset Save: multiple assets
+[2022.05.23-09.36.17:530][741]LogContentValidation: Display: Validating Material /Game/Materials/Shader/Materials/Shader_Test_01.Shader_Test_01
+[2022.05.23-09.36.17:530][741]LogContentValidation: Display: Validating World /Game/Maps/Level_Test_Shader.Level_Test_Shader
