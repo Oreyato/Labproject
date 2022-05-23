@@ -985,3 +985,90 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2022.05.23-09.33.12:225][375]SourceControl: fatal: E:/Epic Games/UE_4.27/Engine/Plugins/Runtime/Oculus/OculusVR/Content: 'E:/Epic Games/UE_4.27/Engine/Plugins/Runtime/Oculus/OculusVR/Content' is outside repository at 'S:/UnrealProjects/LabProject'
 [2022.05.23-09.33.12:225][375]SourceControl: fatal: E:/Epic Games/UE_4.27/Engine/Plugins/Runtime/Steam/SteamVR/Content: 'E:/Epic Games/UE_4.27/Engine/Plugins/Runtime/Steam/SteamVR/Content' is outside repository at 'S:/UnrealProjects/LabProject'
 [2022.05.23-09.33.12:295][375]EditorErrors: Warning: No assets to check in!
+[2022.05.23-09.36.14:652][962]SourceControl: fatal: E:/Epic Games/UE_4.27/Engine/Content: 'E:/Epic Games/UE_4.27/Engine/Content' is outside repository at 'S:/UnrealProjects/LabProject'
+[2022.05.23-09.36.14:652][962]SourceControl: fatal: E:/Epic Games/UE_4.27/Engine/Plugins/2D/Paper2D/Content: 'E:/Epic Games/UE_4.27/Engine/Plugins/2D/Paper2D/Content' is outside repository at 'S:/UnrealProjects/LabProject'
+[2022.05.23-09.36.14:652][962]SourceControl: fatal: E:/Epic Games/UE_4.27/Engine/Plugins/Developer/AnimationSharing/Content: 'E:/Epic Games/UE_4.27/Engine/Plugins/Developer/AnimationSharing/Content' is outside repository at 'S:/UnrealProjects/LabProject'
+[2022.05.23-09.36.14:652][962]SourceControl: fatal: E:/Epic Games/UE_4.27/Engine/Plugins/Lumin/MagicLeap/Content: 'E:/Epic Games/UE_4.27/Engine/Plugins/Lumin/MagicLeap/Content' is outside repository at 'S:/UnrealProjects/LabProject'
+[2022.05.23-09.36.14:652][962]SourceControl: fatal: E:/Epic Games/UE_4.27/Engine/Plugins/Editor/GeometryMode/Content: 'E:/Epic Games/UE_4.27/Engine/Plugins/Editor/GeometryMode/Content' is outside repository at 'S:/UnrealProjects/LabProject'
+[2022.05.23-09.36.14:652][962]SourceControl: fatal: E:/Epic Games/UE_4.27/Engine/Plugins/Lumin/MagicLeapPassableWorld/Content: 'E:/Epic Games/UE_4.27/Engine/Plugins/Lumin/MagicLeapPassableWorld/Content' is outside repository at 'S:/UnrealProjects/LabProject'
+[2022.05.23-09.36.14:652][962]SourceControl: fatal: E:/Epic Games/UE_4.27/Engine/Plugins/Enterprise/DatasmithContent/Content: 'E:/Epic Games/UE_4.27/Engine/Plugins/Enterprise/DatasmithContent/Content' is outside repository at 'S:/UnrealProjects/LabProject'
+[2022.05.23-09.36.14:652][962]SourceControl: fatal: E:/Epic Games/UE_4.27/Engine/Plugins/Experimental/ChaosClothEditor/Content: 'E:/Epic Games/UE_4.27/Engine/Plugins/Experimental/ChaosClothEditor/Content' is outside repository at 'S:/UnrealProjects/LabProject'
+[2022.05.23-09.36.14:652][962]SourceControl: fatal: E:/Epic Games/UE_4.27/Engine/Plugins/FX/Niagara/Content: 'E:/Epic Games/UE_4.27/Engine/Plugins/FX/Niagara/Content' is outside repository at 'S:/UnrealProjects/LabProject'
+[2022.05.23-09.36.14:652][962]SourceControl: fatal: E:/Epic Games/UE_4.27/Engine/Plugins/Experimental/ChaosNiagara/Content: 'E:/Epic Games/UE_4.27/Engine/Plugins/Experimental/ChaosNiagara/Content' is outside repository at 'S:/UnrealProjects/LabProject'
+[2022.05.23-09.36.14:652][962]SourceControl: fatal: E:/Epic Games/UE_4.27/Engine/Plugins/Experimental/ChaosSolverPlugin/Content: 'E:/Epic Games/UE_4.27/Engine/Plugins/Experimental/ChaosSolverPlugin/Content' is outside repository at 'S:/UnrealProjects/LabProject'
+[2022.05.23-09.36.14:652][962]SourceControl: fatal: E:/Epic Games/UE_4.27/Engine/Plugins/Experimental/GeometryCollectionPlugin/Content: 'E:/Epic Games/UE_4.27/Engine/Plugins/Experimental/GeometryCollectionPlugin/Content' is outside repository at 'S:/UnrealProjects/LabProject'
+[2022.05.23-09.36.14:652][962]SourceControl: fatal: E:/Epic Games/UE_4.27/Engine/Plugins/Experimental/GeometryProcessing/Content: 'E:/Epic Games/UE_4.27/Engine/Plugins/Experimental/GeometryProcessing/Content' is outside repository at 'S:/UnrealProjects/LabProject'
+[2022.05.23-09.36.14:652][962]SourceControl: fatal: E:/Epic Games/UE_4.27/Engine/Plugins/Experimental/MotoSynth/Content: 'E:/Epic Games/UE_4.27/Engine/Plugins/Experimental/MotoSynth/Content' is outside repository at 'S:/UnrealProjects/LabProject'
+[2022.05.23-09.36.14:652][962]SourceControl: fatal: E:/Epic Games/UE_4.27/Engine/Plugins/Experimental/PythonScriptPlugin/Content: 'E:/Epic Games/UE_4.27/Engine/Plugins/Experimental/PythonScriptPlugin/Content' is outside repository at 'S:/UnrealProjects/LabProject'
+[2022.05.23-09.36.14:652][962]SourceControl: fatal: E:/Epic Games/UE_4.27/Engine/Plugins/Editor/SpeedTreeImporter/Content: 'E:/Epic Games/UE_4.27/Engine/Plugins/Editor/SpeedTreeImporter/Content' is outside repository at 'S:/UnrealProjects/LabProject'
+[2022.05.23-09.36.14:652][962]SourceControl: fatal: E:/Epic Games/UE_4.27/Engine/Plugins/Media/MediaCompositing/Content: 'E:/Epic Games/UE_4.27/Engine/Plugins/Media/MediaCompositing/Content' is outside repository at 'S:/UnrealProjects/LabProject'
+[2022.05.23-09.36.14:652][962]SourceControl: fatal: E:/Epic Games/UE_4.27/Engine/Plugins/Runtime/AudioSynesthesia/Content: 'E:/Epic Games/UE_4.27/Engine/Plugins/Runtime/AudioSynesthesia/Content' is outside repository at 'S:/UnrealProjects/LabProject'
+[2022.05.23-09.36.14:652][962]SourceControl: fatal: E:/Epic Games/UE_4.27/Engine/Plugins/Runtime/OpenXR/Content: 'E:/Epic Games/UE_4.27/Engine/Plugins/Runtime/OpenXR/Content' is outside repository at 'S:/UnrealProjects/LabProject'
+[2022.05.23-09.36.14:652][962]SourceControl: fatal: E:/Epic Games/UE_4.27/Engine/Plugins/Runtime/OpenXREyeTracker/Content: 'E:/Epic Games/UE_4.27/Engine/Plugins/Runtime/OpenXREyeTracker/Content' is outside repository at 'S:/UnrealProjects/LabProject'
+[2022.05.23-09.36.14:652][962]SourceControl: fatal: E:/Epic Games/UE_4.27/Engine/Plugins/Runtime/OpenXRHandTracking/Content: 'E:/Epic Games/UE_4.27/Engine/Plugins/Runtime/OpenXRHandTracking/Content' is outside repository at 'S:/UnrealProjects/LabProject'
+[2022.05.23-09.36.14:652][962]SourceControl: fatal: E:/Epic Games/UE_4.27/Engine/Plugins/Runtime/PostSplashScreen/Content: 'E:/Epic Games/UE_4.27/Engine/Plugins/Runtime/PostSplashScreen/Content' is outside repository at 'S:/UnrealProjects/LabProject'
+[2022.05.23-09.36.14:652][962]SourceControl: fatal: E:/Epic Games/UE_4.27/Engine/Plugins/VirtualProduction/Takes/Content: 'E:/Epic Games/UE_4.27/Engine/Plugins/VirtualProduction/Takes/Content' is outside repository at 'S:/UnrealProjects/LabProject'
+[2022.05.23-09.36.14:652][962]SourceControl: fatal: E:/Epic Games/UE_4.27/Engine/Plugins/Runtime/Synthesis/Content: 'E:/Epic Games/UE_4.27/Engine/Plugins/Runtime/Synthesis/Content' is outside repository at 'S:/UnrealProjects/LabProject'
+[2022.05.23-09.36.14:652][962]SourceControl: fatal: E:/Epic Games/UE_4.27/Engine/Plugins/Runtime/Oculus/OculusVR/Content: 'E:/Epic Games/UE_4.27/Engine/Plugins/Runtime/Oculus/OculusVR/Content' is outside repository at 'S:/UnrealProjects/LabProject'
+[2022.05.23-09.36.14:652][962]SourceControl: fatal: E:/Epic Games/UE_4.27/Engine/Plugins/Runtime/Steam/SteamVR/Content: 'E:/Epic Games/UE_4.27/Engine/Plugins/Runtime/Steam/SteamVR/Content' is outside repository at 'S:/UnrealProjects/LabProject'
+[2022.05.23-09.36.14:717][962]EditorErrors: Warning: No assets to check in!
+[2022.05.23-09.36.21:368][672]SourceControl: fatal: E:/Epic Games/UE_4.27/Engine/Content/BasicShapes: 'E:/Epic Games/UE_4.27/Engine/Content/BasicShapes' is outside repository at 'S:/UnrealProjects/LabProject'
+[2022.05.23-09.36.21:368][672]SourceControl: fatal: E:/Epic Games/UE_4.27/Engine/Content/Functions/Engine_MaterialFunctions02/WorldPositionOffset: 'E:/Epic Games/UE_4.27/Engine/Content/Functions/Engine_MaterialFunctions02/WorldPositionOffset' is outside repository at 'S:/UnrealProjects/LabProject'
+[2022.05.23-09.36.21:368][672]SourceControl: fatal: E:/Epic Games/UE_4.27/Engine/Content/Functions/Engine_MaterialFunctions02/Utility: 'E:/Epic Games/UE_4.27/Engine/Content/Functions/Engine_MaterialFunctions02/Utility' is outside repository at 'S:/UnrealProjects/LabProject'
+[2022.05.23-09.36.21:368][672]SourceControl: fatal: E:/Epic Games/UE_4.27/Engine/Content/EngineMaterials: 'E:/Epic Games/UE_4.27/Engine/Content/EngineMaterials' is outside repository at 'S:/UnrealProjects/LabProject'
+[2022.05.23-09.36.21:368][672]SourceControl: fatal: E:/Epic Games/UE_4.27/Engine/Content/EngineSky: 'E:/Epic Games/UE_4.27/Engine/Content/EngineSky' is outside repository at 'S:/UnrealProjects/LabProject'
+[2022.05.23-09.36.21:368][672]SourceControl: fatal: E:/Epic Games/UE_4.27/Engine/Content/MapTemplates/Sky/DaylightAmbientCubemap.uasset: 'E:/Epic Games/UE_4.27/Engine/Content/MapTemplates/Sky/DaylightAmbientCubemap.uasset' is outside repository at 'S:/UnrealProjects/LabProject'
+[2022.05.23-09.36.21:368][672]SourceControl: fatal: E:/Epic Games/UE_4.27/Engine/Content/EditorMaterials/Thumbnails/SkySphereMaterial.uasset: 'E:/Epic Games/UE_4.27/Engine/Content/EditorMaterials/Thumbnails/SkySphereMaterial.uasset' is outside repository at 'S:/UnrealProjects/LabProject'
+[2022.05.23-09.36.21:368][672]SourceControl: fatal: E:/Epic Games/UE_4.27/Engine/Content/EditorMeshes/ColorCalibrator/T_ColorGrid.uasset: 'E:/Epic Games/UE_4.27/Engine/Content/EditorMeshes/ColorCalibrator/T_ColorGrid.uasset' is outside repository at 'S:/UnrealProjects/LabProject'
+[2022.05.23-09.36.21:368][672]SourceControl: fatal: E:/Epic Games/UE_4.27/Engine/Content/Functions/Engine_MaterialFunctions01/Opacity: 'E:/Epic Games/UE_4.27/Engine/Content/Functions/Engine_MaterialFunctions01/Opacity' is outside repository at 'S:/UnrealProjects/LabProject'
+[2022.05.23-09.36.21:368][672]SourceControl: fatal: E:/Epic Games/UE_4.27/Engine/Content/EditorBlueprintResources/StandardMacros.uasset: 'E:/Epic Games/UE_4.27/Engine/Content/EditorBlueprintResources/StandardMacros.uasset' is outside repository at 'S:/UnrealProjects/LabProject'
+[2022.05.23-09.36.21:368][672]SourceControl: fatal: E:/Epic Games/UE_4.27/Engine/Content/Functions/Engine_MaterialFunctions03/Procedurals/ComputeFilterWidth.uasset: 'E:/Epic Games/UE_4.27/Engine/Content/Functions/Engine_MaterialFunctions03/Procedurals/ComputeFilterWidth.uasset' is outside repository at 'S:/UnrealProjects/LabProject'
+[2022.05.23-09.36.21:368][672]SourceControl: fatal: E:/Epic Games/UE_4.27/Engine/Content/EngineFonts/RobotoDistanceField.uasset: 'E:/Epic Games/UE_4.27/Engine/Content/EngineFonts/RobotoDistanceField.uasset' is outside repository at 'S:/UnrealProjects/LabProject'
+[2022.05.23-09.36.21:514][672]SourceControl: Error: error: cannot pull with rebase: You have unstaged changes.
+[2022.05.23-09.36.21:514][672]SourceControl: Error: error: please commit or stash them.
+[2022.05.23-09.36.21:518][672]LightingResults: New page: Lighting Build
+[2022.05.23-09.36.21:519][672]LogWorld: UWorld::CleanupWorld for Hospital, bSessionEnded=true, bCleanupResources=true
+[2022.05.23-09.36.21:519][672]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.05.23-09.36.21:519][672]MapCheck: New page: Map Check
+[2022.05.23-09.36.21:519][672]LightingResults: New page: Lighting Build
+[2022.05.23-09.36.21:523][672]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.05.23-09.36.21:525][672]LogUObjectHash: Compacting FUObjectHashTables data took   0.64ms
+[2022.05.23-09.36.21:527][672]LogAIModule: Creating AISystem for world Untitled
+[2022.05.23-09.36.21:527][672]LogAudio: Display: Audio Device (ID: 1) registered with world 'Untitled'.
+[2022.05.23-09.36.21:544][672]LoadErrors: New page: New Map
+[2022.05.23-09.36.21:546][672]LogUObjectGlobals: Reloading 14 Package(s):
+	Asset Name: /Game/Blueprints/Character/Character_Blueprint
+	Asset Name: /Game/Blueprints/GM_QuelqueChose
+	Asset Name: /Game/Materials/LD/Materials/TechArt/MF_CheapLF_Vec2
+	Asset Name: /Game/Materials/LD/Materials/TechArt/MF_LDGrid_Triplanar
+	Asset Name: /Game/Materials/LD/Textures/T_Grid
+	Asset Name: /Game/Materials/LD/Materials/M_LDGrid_Local
+	Asset Name: /Game/Materials/LD/Materials/MI_LDGrid_ExpBarrel
+	Asset Name: /Game/Materials/LD/Materials/MI_LDGrid_JumpX
+	Asset Name: /Game/Materials/LD/Materials/MI_LDGrid_Local_Grey
+	Asset Name: /Game/Materials/LD/Materials/MI_LDGrid_Local_Red
+[2022.05.23-09.36.21:563][672]LogUObjectHash: Compacting FUObjectHashTables data took   0.50ms
+[2022.05.23-09.36.21:667][672]LogUObjectHash: Compacting FUObjectHashTables data took   0.71ms
+[2022.05.23-09.36.21:756][672]LogUObjectHash: Compacting FUObjectHashTables data took   0.63ms
+[2022.05.23-09.36.21:849][672]LogUObjectHash: Compacting FUObjectHashTables data took   0.58ms
+[2022.05.23-09.36.21:935][672]LogUObjectHash: Compacting FUObjectHashTables data took   0.54ms
+[2022.05.23-09.36.22:021][672]LogUObjectHash: Compacting FUObjectHashTables data took   0.57ms
+[2022.05.23-09.36.22:110][672]LogUObjectHash: Compacting FUObjectHashTables data took   0.55ms
+[2022.05.23-09.36.22:198][672]LogUObjectHash: Compacting FUObjectHashTables data took   0.55ms
+[2022.05.23-09.36.22:229][672]LogAssetEditorSubsystem: Opening Asset editor for World /Game/Maps/Hospital.Hospital
+[2022.05.23-09.36.22:230][672]Cmd: MAP LOAD FILE="S:/UnrealProjects/LabProject/GameFolder/Content/Maps/Hospital.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2022.05.23-09.36.22:230][672]LightingResults: New page: Lighting Build
+[2022.05.23-09.36.22:230][672]LoadErrors: New page: Loading map: Hospital.umap
+[2022.05.23-09.36.22:230][672]LogWorld: UWorld::CleanupWorld for Untitled, bSessionEnded=true, bCleanupResources=true
+[2022.05.23-09.36.22:230][672]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.05.23-09.36.22:230][672]MapCheck: New page: Map Check
+[2022.05.23-09.36.22:230][672]LightingResults: New page: Lighting Build
+[2022.05.23-09.36.22:234][672]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.05.23-09.36.22:235][672]LogUObjectHash: Compacting FUObjectHashTables data took   0.55ms
+[2022.05.23-09.36.22:235][672]LogAudio: Display: Audio Device (ID: 1) registered with world 'Hospital'.
+[2022.05.23-09.36.22:255][672]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2022.05.23-09.36.22:255][672]LogAIModule: Creating AISystem for world Hospital
+[2022.05.23-09.36.22:261][672]LogUObjectHash: Compacting FUObjectHashTables data took   0.53ms
+[2022.05.23-09.36.22:269][672]Cmd: MAP CHECKDEP NOCLEARLOG
+[2022.05.23-09.36.22:269][672]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0,055ms to complete.
+[2022.05.23-09.36.22:269][672]LogFileHelpers: Loading map 'Hospital' took 0.040
